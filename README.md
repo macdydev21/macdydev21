@@ -133,8 +133,8 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=macdydev21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de macdydev21" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macdydev21&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img height="165" src="./profile/stats.svg" alt="Estadísticas de GitHub de macdydev21" />
+  <img height="165" src="./profile/top-langs.svg" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
@@ -150,5 +150,6 @@
 Siempre estoy abierto a nuevos retos en **Odoo**, **desarrollo web** y **automatización de procesos**. Escríbeme por [correo](mailto:macdielagm@gmail.com) o [WhatsApp](https://wa.me/5358363115) — con gusto conversamos.
 
 </div>
+
 
 
