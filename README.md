@@ -16,7 +16,7 @@
 ## 🧭 Sobre mí
 
 - 💻 Desarrollador **Fullstack** y **Odoo Developer**, apasionado por transformar ideas en soluciones de software.
-- 🐘 Especializado en el ecosistema **Odoo** (ORM, QWeb, OWL Framework), versiones 14 a 19: Punto de Venta, Facturación, Contabilidad, RRHH, integraciones, migraciones y localizaciones fiscales.
+- 🐘 Especializado en el ecosistema **Odoo** (ORM, QWeb, OWL Framework), versiones 14 a 19: Punto de Venta, Facturación, Contabilidad, Ventas, Compras, Flota, integraciones, migraciones y localizaciones fiscales.
 - 🌎 Casi **3 años** de trayectoria **100% remota**, con clientes y equipos en España, Panamá, Honduras, México, Perú y Estados Unidos.
 - 🧾 3 localizaciones fiscales implementadas de punta a punta: Honduras (SAR), El Salvador (DTE) y Guatemala (FEL).
 - 🤖 Explorando IA aplicada al desarrollo de software: agentes de IA y herramientas como Claude Code.
@@ -65,7 +65,7 @@
 <details>
   <summary><b>🏨 Integración Krossbooking + Odoo</b></summary>
   <ul>
-    <li>El equipo de un hotel dedicaba horas a copiar reservas y conciliar cobros manualmente entre Krossbooking y el ERP.</li>
+    <li>Los propietarios que alquilaban sus habitaciones dedicaban horas a copiar reservas y conciliar cobros manualmente entre Krossbooking y el ERP.</li>
     <li>Desarrollé una integración vía API REST que sincroniza reservas, factura automáticamente y concilia los pagos, reduciendo en torno a un 30% el tiempo dedicado a estas tareas.</li>
     <li>Tecnologías: Odoo, Python, API REST</li>
   </ul>
@@ -112,7 +112,7 @@
   <summary><b>✈️ Sistema Web de Reservas de Vuelos</b></summary>
   <ul>
     <li>Plataforma fullstack para una agencia de viajes con dashboard financiero en tiempo real (ventas, costos, ganancia, saldo de clientes y deuda con proveedores).</li>
-    <li>Libro contable de solo inserción, validado con más de 190 pruebas de humo automatizadas.</li>
+    <li>Libro contable de solo inserción: cada movimiento bloquea la fila de la entidad antes de leer su saldo, evitando condiciones de carrera entre ventas simultáneas.</li>
     <li>Tecnologías: React, Vite, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL</li>
   </ul>
 </details>
@@ -150,4 +150,5 @@
 Siempre estoy abierto a nuevos retos en **Odoo**, **desarrollo web** y **automatización de procesos**. Escríbeme por [correo](mailto:macdielagm@gmail.com) o [WhatsApp](https://wa.me/5358363115) — con gusto conversamos.
 
 </div>
+
 
